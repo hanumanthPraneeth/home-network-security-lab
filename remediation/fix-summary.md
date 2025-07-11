@@ -1,0 +1,1 @@
+Summary of patched vulnerabilities and applied security controls.

@@ -1,0 +1,1 @@
+Basic pfSense configuration for LAN/WAN, DHCP, DNS resolver, firewall rules.

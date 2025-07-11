@@ -1,0 +1,1 @@
+Windows 10 hardening: disable SMBv1, enable Defender, configure firewall.

@@ -1,0 +1,1 @@
+Syslog config for centralized logging from Ubuntu/Windows to a logging VM.

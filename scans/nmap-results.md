@@ -1,0 +1,1 @@
+Example Nmap scan results with explanations of common vulnerabilities found.

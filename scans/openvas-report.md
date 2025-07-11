@@ -1,0 +1,1 @@
+Simulated OpenVAS scan summary highlighting high/critical vulnerabilities.

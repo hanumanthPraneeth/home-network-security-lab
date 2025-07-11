@@ -1,0 +1,1 @@
+Steps to set up Kali Linux with tools like Metasploit, Burp Suite, SQLMap, Hydra.

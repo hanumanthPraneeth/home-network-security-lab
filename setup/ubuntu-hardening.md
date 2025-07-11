@@ -1,0 +1,1 @@
+System hardening: SSH config, firewall rules (UFW), updates, and package audit.
